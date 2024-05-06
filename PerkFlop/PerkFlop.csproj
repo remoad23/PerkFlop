@@ -18,4 +18,8 @@
     <Folder Include="Documentation\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Layer.Window\Layer.Window.csproj" />
+  </ItemGroup>
+
 </Project>

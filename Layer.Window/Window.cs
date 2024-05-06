@@ -1,6 +1,6 @@
 ﻿namespace Layer.Window
 {
-    public class Class1
+    public class Window
     {
 
     }

@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Layer.Input\Layer.Input.csproj" />
+    <ProjectReference Include="..\Layer.Window\Layer.Window.csproj" />
+  </ItemGroup>
+
 </Project>
